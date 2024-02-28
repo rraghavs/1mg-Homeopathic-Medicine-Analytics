@@ -52,4 +52,5 @@ Once you have the database of 2 tables created.
 - You are hired in a consultancy firm, one of their client want to open a homeopathic medicine store what is their total cost for open their store. Create an interactive dashboard for them to analyze and select best medicine for their store. (Use benefit area as a filter)
 
 - #### Dashboard:
-- 
+  ![image](https://github.com/rraghavs/1mg-Homeopathic-Medicine-Analytics/assets/156896027/aa22c679-49f5-436d-9a07-767bcd3b7115)
+
